@@ -126,6 +126,14 @@
       <Project>{d605f2b9-45f7-48e2-bf77-ec7f9da3f65e}</Project>
       <Name>AccesoADatos</Name>
     </ProjectReference>
+    <ProjectReference Include="..\dominio\dominio.csproj">
+      <Project>{12f3cf19-f88c-0774-969f-8840f52c7312}</Project>
+      <Name>dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\negocio\negocio.csproj">
+      <Project>{f5f253f4-6495-3f7a-8440-b0cb17d5bbb9}</Project>
+      <Name>negocio</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -1,0 +1,16 @@
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\bin\Debug\net8.0\negocio.deps.json
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\bin\Debug\net8.0\negocio.dll
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\bin\Debug\net8.0\negocio.pdb
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\bin\Debug\net8.0\dominio.dll
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\bin\Debug\net8.0\dominio.pdb
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\negocio.csproj.AssemblyReference.cache
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\negocio.AssemblyInfoInputs.cache
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\negocio.AssemblyInfo.cs
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\negocio.csproj.CoreCompileInputs.cache
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\negocio.sourcelink.json
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\negocio.csproj.Up2Date
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\negocio.dll
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\refint\negocio.dll
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\negocio.pdb
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\ref\negocio.dll
