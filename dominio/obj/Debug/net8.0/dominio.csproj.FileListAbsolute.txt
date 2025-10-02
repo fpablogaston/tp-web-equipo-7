@@ -10,3 +10,15 @@ D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\
 D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\dominio\obj\Debug\net8.0\refint\dominio.dll
 D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\dominio\obj\Debug\net8.0\dominio.pdb
 D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\dominio\obj\Debug\net8.0\ref\dominio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\bin\Debug\net8.0\dominio.deps.json
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\bin\Debug\net8.0\dominio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\bin\Debug\net8.0\dominio.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\obj\Debug\net8.0\dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\obj\Debug\net8.0\dominio.AssemblyInfoInputs.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\obj\Debug\net8.0\dominio.AssemblyInfo.cs
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\obj\Debug\net8.0\dominio.csproj.CoreCompileInputs.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\obj\Debug\net8.0\dominio.sourcelink.json
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\obj\Debug\net8.0\dominio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\obj\Debug\net8.0\refint\dominio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\obj\Debug\net8.0\dominio.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\dominio\obj\Debug\net8.0\ref\dominio.dll

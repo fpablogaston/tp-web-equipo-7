@@ -57,3 +57,5 @@ C:\TP-Web-equipo-7\TPWeb_equipo-7\Actividad4\obj\Debug\Actividad4.csproj.CoreCom
 C:\TP-Web-equipo-7\TPWeb_equipo-7\Actividad4\obj\Debug\Actividad4.csproj.Up2Date
 C:\TP-Web-equipo-7\TPWeb_equipo-7\Actividad4\obj\Debug\Actividad4.dll
 C:\TP-Web-equipo-7\TPWeb_equipo-7\Actividad4\obj\Debug\Actividad4.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\Actividad4\obj\Debug\Actividad4.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\Actividad4\obj\Debug\Actividad4.pdb

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\dominio\\dominio.csproj": {}
+    "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\dominio.csproj": {}
   },
   "projects": {
-    "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\dominio\\dominio.csproj": {
+    "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\dominio\\dominio.csproj",
+        "projectUniqueName": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\dominio.csproj",
         "projectName": "dominio",
-        "projectPath": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\dominio\\dominio.csproj",
-        "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
-        "outputPath": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\dominio\\obj\\",
+        "projectPath": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\dominio.csproj",
+        "packagesPath": "C:\\Users\\fpabl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\matia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fpabl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,6 @@
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.pdb

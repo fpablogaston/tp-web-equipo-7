@@ -14,3 +14,19 @@ D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\
 D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\refint\negocio.dll
 D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\negocio.pdb
 D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 2 - WinForms\TPWinForm_Equipo7A\negocio\obj\Debug\net8.0\ref\negocio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\bin\Debug\net8.0\negocio.deps.json
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\bin\Debug\net8.0\negocio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\bin\Debug\net8.0\negocio.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\bin\Debug\net8.0\dominio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\bin\Debug\net8.0\dominio.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\negocio.csproj.AssemblyReference.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\negocio.AssemblyInfoInputs.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\negocio.AssemblyInfo.cs
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\negocio.csproj.CoreCompileInputs.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\negocio.sourcelink.json
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\negocio.csproj.Up2Date
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\negocio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\refint\negocio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\negocio.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio\obj\Debug\net8.0\ref\negocio.dll

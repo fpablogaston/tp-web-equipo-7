@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\dominio\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|solutionrelative:dominio\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\dominio\\imagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|solutionrelative:dominio\\imagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F3CF19-F88C-0774-969F-8840F52C7312}|dominio\\dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\Clientes.cs",
+              "RelativeDocumentMoniker": "dominio\\Clientes.cs",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\Clientes.cs*",
+              "RelativeToolTip": "dominio\\Clientes.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:54:39.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Imagenes.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\Imagenes.cs",
+              "RelativeDocumentMoniker": "dominio\\Imagenes.cs",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\Imagenes.cs*",
+              "RelativeToolTip": "dominio\\Imagenes.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:54:26.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\Voucher.cs",
+              "RelativeDocumentMoniker": "dominio\\Voucher.cs",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\dominio\\Voucher.cs*",
+              "RelativeToolTip": "dominio\\Voucher.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:54:15.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
