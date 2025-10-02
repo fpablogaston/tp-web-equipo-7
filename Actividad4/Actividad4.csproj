@@ -43,6 +43,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=2.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -60,11 +63,6 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
-  </ItemGroup>
-  <ItemGroup>
-    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
-      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
@@ -108,8 +106,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
     <Content Include="Site.Master" />
+    <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -126,12 +124,12 @@
       <Project>{d605f2b9-45f7-48e2-bf77-ec7f9da3f65e}</Project>
       <Name>AccesoADatos</Name>
     </ProjectReference>
-    <ProjectReference Include="..\dominio\dominio.csproj">
-      <Project>{12f3cf19-f88c-0774-969f-8840f52c7312}</Project>
+    <ProjectReference Include="..\ClassLibrary1\dominio.csproj">
+      <Project>{f3f987ff-03d2-4f9d-81a8-a1fff660fec4}</Project>
       <Name>dominio</Name>
     </ProjectReference>
-    <ProjectReference Include="..\negocio\negocio.csproj">
-      <Project>{f5f253f4-6495-3f7a-8440-b0cb17d5bbb9}</Project>
+    <ProjectReference Include="..\negocio2\negocio.csproj">
+      <Project>{882e5751-08fe-4852-a4d3-ae6751472a81}</Project>
       <Name>negocio</Name>
     </ProjectReference>
   </ItemGroup>

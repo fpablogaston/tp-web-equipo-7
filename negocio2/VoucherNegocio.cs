@@ -7,23 +7,24 @@ using System.Threading.Tasks;
 
 namespace negocio
 {
-    public class ImagenesNegocio
+    public class VoucherNegocio
     {
-        public List<Imagenes> listar()
+        public List<Voucher> listar()
         {
-            List<Imagenes> lista = new List<Imagenes>();
+            List<Voucher> lista = new List<Voucher>();
             AccesoDatos datos = new AccesoDatos();
 
             try
             {
-                datos.setQuery("SELECT Id, IdArticulo, ImagenUrl FROM Imagenes");
+                datos.setQuery("SELECT IdCliente, CodigoVoucher, FechaCanje, IdArticulo FROM Vouchers");
                 datos.ejecutarLectura();
                 while (datos.Lector.Read())
                 {
-                    Imagenes aux = new Imagenes();
-                    aux.Id = (int)datos.Lector["Id"];
+                    Voucher aux = new Voucher();
+                    aux.CodigoVoucher = (string)datos.Lector["CodigoVoucher"];
+                    aux.IdCliente = (int)datos.Lector["IdCliente"];
+                    aux.FechaCanje = (DateTime)datos.Lector["FechaCanje"];
                     aux.IdArticulo = (int)datos.Lector["IdArticulo"];
-                    aux.ImagenUrl = (string)datos.Lector["ImagenUrl"];
                     lista.Add(aux);
                 }
                 return lista;

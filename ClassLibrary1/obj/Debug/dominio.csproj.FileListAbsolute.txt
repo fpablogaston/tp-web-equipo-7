@@ -1,0 +1,6 @@
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\ClassLibrary1\bin\Debug\dominio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\ClassLibrary1\bin\Debug\dominio.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\ClassLibrary1\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\ClassLibrary1\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\ClassLibrary1\obj\Debug\dominio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\ClassLibrary1\obj\Debug\dominio.pdb

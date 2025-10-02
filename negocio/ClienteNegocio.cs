@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace negocio
 {
-    internal class ClientesNegocio
+    public class ClienteNegocio
     {
-        public List<Clientes> listar()
+        public List<Cliente> listar()
         {
-            List<Clientes> lista = new List<Clientes>();
+            List<Cliente> lista = new List<Cliente>();
             AccesoDatos datos = new AccesoDatos();
 
             try
@@ -20,7 +20,7 @@ namespace negocio
                 datos.ejecutarLectura();
                 while (datos.Lector.Read())
                 {
-                    Clientes aux = new Clientes();
+                    Cliente aux = new Cliente();
                     aux.Id = (int)datos.Lector["Id"];
                     aux.Documento = (string)datos.Lector["Documento"];
                     aux.Nombre = (string)datos.Lector["Nombre"];

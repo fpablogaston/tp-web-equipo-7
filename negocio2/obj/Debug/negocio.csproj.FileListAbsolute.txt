@@ -1,0 +1,9 @@
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio2\bin\Debug\negocio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio2\bin\Debug\negocio.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio2\bin\Debug\dominio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio2\bin\Debug\dominio.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio2\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio2\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio2\obj\Debug\negocio.csproj.Up2Date
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio2\obj\Debug\negocio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\negocio2\obj\Debug\negocio.pdb
