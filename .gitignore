@@ -1,0 +1,21 @@
+# Archivos de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos de paquetes
+packages/
+*.nupkg
+*.snupkg
+
+# Otros
+*.log
+*.vsidx
