@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\actividad4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\actividad4\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\actividad4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\default.aspx.cs",
+              "RelativeDocumentMoniker": "Actividad4\\default.aspx.cs",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\default.aspx.cs",
+              "RelativeToolTip": "Actividad4\\default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:02:07.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\default.aspx",
+              "RelativeDocumentMoniker": "Actividad4\\default.aspx",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\default.aspx",
+              "RelativeToolTip": "Actividad4\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-02T22:36:25.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Site.Master",
+              "RelativeDocumentMoniker": "Actividad4\\Site.Master",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Site.Master",
+              "RelativeToolTip": "Actividad4\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-02T22:21:14.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

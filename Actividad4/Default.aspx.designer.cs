@@ -11,16 +11,25 @@ namespace Actividad4
 {
 
 
-    public partial class Default
+    public partial class _default
     {
 
         /// <summary>
-        /// Control form1.
+        /// Control TextCodigo.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        protected global::System.Web.UI.WebControls.TextBox TextCodigo;
+
+        /// <summary>
+        /// Control btnSiguiente.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnSiguiente;
     }
 }
