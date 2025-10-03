@@ -6,6 +6,9 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using AccesoADatos;
+using System.Runtime.InteropServices;
+using System.Web.UI.WebControls.WebParts;
 
 namespace Actividad4
 {
@@ -16,6 +19,56 @@ namespace Actividad4
         {
             ArticuloNegocio negocio = new ArticuloNegocio();
             ListaArticulos = negocio.listar();
+            if (!IsPostBack)
+            {
+                rptArticulos.DataSource = ListaArticulos;
+                rptArticulos.DataBind();
+            }
         }
+
+        protected void rptArticulos_ItemDataBound(object sender, RepeaterItemEventArgs e)
+        {
+            if (e.Item.ItemType == ListItemType.Item || e.Item.ItemType == ListItemType.AlternatingItem)
+            {
+                dominio.Articulo articulo = (dominio.Articulo)e.Item.DataItem;
+                Repeater rptImagenes = (Repeater)e.Item.FindControl("rptImagenes");
+                rptImagenes.DataSource = articulo.Imagenes;
+                rptImagenes.DataBind();
+            }
+        }
+
+        protected void rptArticulos_ItemCommand(object source, RepeaterCommandEventArgs e)
+        {
+            if (e.CommandName == "Reclamar")
+            {
+                int idArticuloSeleccionado = int.Parse(e.CommandArgument.ToString());
+
+                if (Session["CodigoIngresado"] != null)
+                {
+                    string codigoVoucher = Session["CodigoIngresado"].ToString();
+                    AccesoDatos datos = new AccesoDatos();
+
+                    try
+                    {
+                        datos.setQuery("UPDATE VOUCHERS SET IdArticulo = @idArticulo WHERE CodigoVoucher = @Codigo");
+                        datos.setearParametro("@idArticulo", idArticuloSeleccionado);
+                        datos.setearParametro("@Codigo", codigoVoucher);
+                        datos.ejecutarAccion();
+
+                        Session["IdArticulo"] = idArticuloSeleccionado;
+                        Response.Redirect("Paso3.aspx");
+                    }
+                    catch (Exception ex)
+                    {
+                        throw ex;
+                    }
+                    finally
+                    {
+                        datos.cerrarConexion();
+                    }
+                }
+            }
+        }
+
     }
 }

@@ -3,4 +3,5 @@
         elemento.value = "";
     elemento.style.color = "black";
         }
-    }
+}
+
