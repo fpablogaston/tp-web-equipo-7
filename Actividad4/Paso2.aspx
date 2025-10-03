@@ -2,7 +2,9 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h1>Paso 2</h1>
+    <div class="bg-dark text-white p-2 mb-3">
+       <h1 class="m-0">Paso 2</h1>
+    </div>
     <p>Seleccioná tu premio.</p>
 
     <div class="container mt-4">

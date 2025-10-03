@@ -13,3 +13,6 @@ D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\Acces
 D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\bin\Debug\dominio.dll
 D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\bin\Debug\dominio.pdb
 D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoAD.856C7FE8.Up2Date
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\bin\Debug\dominio.dll
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\bin\Debug\dominio.pdb
+C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoAD.856C7FE8.Up2Date
