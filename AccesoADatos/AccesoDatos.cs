@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AccesoADatos
 {
-    public class AccesoADatos
+    public class AccesoDatos
     {
         private SqlConnection conexion;
         private SqlCommand comando;
@@ -17,7 +17,7 @@ namespace AccesoADatos
         {
             get { return lector; }
         }
-        public AccesoADatos()
+        public AccesoDatos()
         {
             conexion = new SqlConnection("server=.\\SQLEXPRESS; database=PROMOS_DB; integrated security=true");
             comando = new SqlCommand();
@@ -64,6 +64,29 @@ namespace AccesoADatos
             catch (Exception ex)
             {
                 throw ex;
+            }
+        }
+
+        public int ejecutarScalar()
+        {
+
+            comando.Connection = conexion;
+            try
+            {
+                conexion.Open();
+                object result = comando.ExecuteScalar();
+                if (result == null || result == DBNull.Value)
+                    return 0;
+
+                return Convert.ToInt32(result);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                conexion.Close();
             }
         }
     }

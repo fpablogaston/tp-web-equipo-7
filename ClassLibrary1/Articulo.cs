@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace dominio
 {
     public class Articulo
@@ -16,7 +17,9 @@ namespace dominio
         private string descripcion;
         private Marca marca;
         private Categoria categoria;
-        private string imagenUrl;
+
+        public string ImagenUrl => Imagenes.FirstOrDefault();
+        public List<string> Imagenes { get; set; } = new List<string>();
         private decimal precio;
 
         public int IdArticulo
@@ -57,11 +60,7 @@ namespace dominio
             get { return categoria; }
             set { categoria = value; }
         }
-        public string ImagenUrl
-        {
-            get { return imagenUrl; }
-            set { imagenUrl = value; }
-        }
+      
 
         public decimal Precio
         {

@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccesoDatos.cs" />
     <Compile Include="ArticuloNegocio.cs" />
     <Compile Include="CategoriaNegocio.cs" />
     <Compile Include="ClienteNegocio.cs" />
@@ -51,6 +50,10 @@
     <Compile Include="VoucherNegocio.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AccesoADatos\AccesoADatos.csproj">
+      <Project>{d605f2b9-45f7-48e2-bf77-ec7f9da3f65e}</Project>
+      <Name>AccesoADatos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ClassLibrary1\dominio.csproj">
       <Project>{f3f987ff-03d2-4f9d-81a8-a1fff660fec4}</Project>
       <Name>dominio</Name>

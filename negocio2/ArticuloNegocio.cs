@@ -7,6 +7,7 @@ using System.Data.SqlClient;
 using dominio;
 using System.Runtime.CompilerServices;
 using System.Globalization;
+using AccesoADatos;
 
 namespace negocio
 {
@@ -21,28 +22,38 @@ namespace negocio
 
             try
             {
-                datos.setQuery("SELECT A.Id, A.Codigo, A.Nombre, A.Descripcion, M.Descripcion AS Marca, M.Id AS IdMarca, C.Descripcion AS Categoria, C.Id AS IdCategoria, A.Precio,(SELECT TOP 1 ImagenUrl FROM IMAGENES I WHERE I.IdArticulo = A.Id ORDER BY I.Id) AS ImagenUrl FROM ARTICULOS A JOIN MARCAS M ON M.Id = A.IdMarca JOIN CATEGORIAS C ON C.Id = A.IdCategoria LEFT JOIN IMAGENES I ON I.IdArticulo = A.Id\r\n");
+                datos.setQuery("SELECT A.Id, A.Codigo, A.Nombre, A.Descripcion, M.Descripcion AS Marca, M.Id AS IdMarca, C.Descripcion AS Categoria, C.Id AS IdCategoria, A.Precio, I.ImagenUrl FROM ARTICULOS A JOIN MARCAS M ON M.Id = A.IdMarca JOIN CATEGORIAS C ON C.Id = A.IdCategoria LEFT JOIN IMAGENES I ON I.IdArticulo = A.Id\r\n");
                 datos.ejecutarLectura();
 
                 while (datos.Lector.Read())
                 {
-                    Articulo aux = new Articulo();
-                    aux.IdArticulo = (int)datos.Lector["Id"];
-                    aux.CodigoArticulo = (string)datos.Lector["Codigo"];
-                    aux.Nombre = (string)datos.Lector["Nombre"];
-                    aux.Descripcion = (string)datos.Lector["Descripcion"];
-                    aux.Marca = new Marca();
-                    aux.Marca.IdMarca = (int)datos.Lector["IdMarca"];
-                    aux.Marca.Descripcion = (string)datos.Lector["Marca"];
-                    aux.Categoria = new Categoria();
-                    aux.Categoria.IdCategoria = (int)datos.Lector["IdCategoria"];
-                    aux.Categoria.Descripcion = (string)datos.Lector["Categoria"];
+                    int IdArticulo = (int)datos.Lector["Id"];
+
+                    Articulo aux = lista.FirstOrDefault(a => a.IdArticulo == IdArticulo);
+                    if (aux == null)
+                    {
+                        aux = new Articulo();
+                        {
+                            aux.IdArticulo = IdArticulo;
+                            aux.CodigoArticulo = (string)datos.Lector["Codigo"];
+                            aux.Nombre = (string)datos.Lector["Nombre"];
+                            aux.Descripcion = (string)datos.Lector["Descripcion"];
+                            aux.Marca = new Marca();
+                            aux.Marca.IdMarca = (int)datos.Lector["IdMarca"];
+                            aux.Marca.Descripcion = (string)datos.Lector["Marca"];
+                            aux.Categoria = new Categoria();
+                            aux.Categoria.IdCategoria = (int)datos.Lector["IdCategoria"];
+                            aux.Categoria.Descripcion = (string)datos.Lector["Categoria"];
+                            aux.Precio = (decimal)datos.Lector["Precio"];
+                            aux.Imagenes = new List<string>();
+                        }
+
+                        lista.Add(aux);
+                    }
 
                     if(!(datos.Lector["ImagenUrl"] is DBNull))
-                        aux.ImagenUrl = (string)datos.Lector["ImagenUrl"];
+                    aux.Imagenes.Add((string)datos.Lector["ImagenUrl"]);
                     
-                    aux.Precio = (decimal)datos.Lector["Precio"];
-                    lista.Add(aux);
                 }
 
                 return lista;
@@ -113,7 +124,7 @@ namespace negocio
             try
             {
                 datos.setQuery("UPDATE IMAGENES SET ImagenUrl = @ImagenUrl WHERE IdArticulo = @IdArticulo");
-                datos.setearParametro("@ImagenUrl", articulo.ImagenUrl);
+                datos.setearParametro("@ImagenUrl", articulo.Imagenes);
                 datos.setearParametro("@IdArticulo", articulo.IdArticulo);
                 datos.ejecutarAccion();
             }

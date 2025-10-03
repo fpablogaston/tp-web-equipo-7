@@ -67,8 +67,10 @@
   <ItemGroup>
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="scripts\scripts.js" />
     <Content Include="Paso2.aspx" />
     <Content Include="Paso3.aspx" />
+    <Content Include="styles\estilos.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

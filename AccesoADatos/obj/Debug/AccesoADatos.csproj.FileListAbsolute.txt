@@ -4,3 +4,12 @@ C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\obj\De
 C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
 C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.dll
 C:\Users\fpabl\OneDrive\Desktop\RepoGitActv4\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.pdb
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\bin\Debug\AccesoADatos.dll
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\bin\Debug\AccesoADatos.pdb
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.csproj.AssemblyReference.cache
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.dll
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoADatos.pdb
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\bin\Debug\dominio.dll
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\bin\Debug\dominio.pdb
+D:\000 uni\2025 - 2C\PROGRAMACION III\Actividad 4 - TP Web\tp-web-equipo-7\AccesoADatos\obj\Debug\AccesoAD.856C7FE8.Up2Date

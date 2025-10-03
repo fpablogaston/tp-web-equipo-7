@@ -11,10 +11,13 @@ namespace Actividad4
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (!IsPostBack)
+            {
+               TextCodigo.Text = "XXXXXX";
+            }
         }
 
-        protected void btnSiguiente_Click(object sender, EventArgs e)
+        protected void btnCanjear_Click(object sender, EventArgs e)
         {
             Response.Redirect("Paso2.aspx");
         }

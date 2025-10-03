@@ -1,0 +1,66 @@
+﻿h1 {
+    color: #E7473C;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 100px;
+    font-weight: bold;
+    text-shadow: 2px 2px #ccc;
+}
+
+.btn-primary {
+    background-color: #F0F0F0;
+    border: none;
+    color: black;
+}
+.btn-primary:hover {
+    background-color: #E7473C;
+    color: white;
+}
+
+.btn-danger {
+    background-color: #F0F0F0;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+    color: #E7473C;
+}
+
+    .btn-danger:hover {
+        background-color: #E7473C;
+        color: #F0F0F0;
+    }
+
+
+
+.cards-container {
+    padding: 100px;
+}
+
+
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#carousel {
+    max-width: 600px;
+    margin: 0 auto; 
+}
+
+    #carousel img {
+        object-fit: contain;
+        height: 400px; 
+    }
+
+.card-img-fixed {
+    height: 400px;
+    object-fit: cover; 
+    width: 100%; 
+}
