@@ -1,4 +1,5 @@
-﻿using System;
+﻿using negocio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -12,6 +13,37 @@ namespace Actividad4
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+
+        protected void btnDni_Click(object sender, EventArgs e)
+        {
+            int documento = int.Parse(textDni.Text);
+            ClienteNegocio negocio = new ClienteNegocio();
+            var cliente = negocio.BuscarDocumentoCliente(documento);
+
+            if (cliente != null)
+            {
+                textName.Text = cliente.Nombre;
+                TextApellido.Text = cliente.Apellido;
+                TextEmail.Text = cliente.Email;
+                TextDireccion.Text = cliente.Direccion;
+                TextCiudad.Text = cliente.Ciudad;
+                TextCP.Text = cliente.CP.ToString();
+            }
+            else
+            {
+                textName.Text = "";
+                TextApellido.Text = "";
+                TextEmail.Text = "";
+                TextDireccion.Text = "";
+                TextCiudad.Text = "";
+                TextCP.Text = "";
+            }
+        }
+
+        protected void btnParticipar_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("paginaExito.aspx");
         }
     }
 }

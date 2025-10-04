@@ -13,6 +13,7 @@
     <div class="col-md-2">
         <label type="number" class="form-label">DNI</label>
         <asp:TextBox ID="textDni" cssClass="form-control" runat="server"></asp:TextBox>
+        <asp:Button ID="btnDni" cssClass="btn btn-primary" OnClick="btnDni_Click" runat="server" Text="Chequear DNI" />
     </div>
 
     <div class="row">
@@ -59,6 +60,6 @@
     </div>
 
     <div class="col-12">
-        <button type="submit" class="btn btn-primary">Participar!</button>
+        <asp:Button type="submit" ID="btnParticipar" CssClass="btn btn-primary" OnClick="btnParticipar_Click" runat="server" Text="Participar!" />
     </div>
 </asp:Content>

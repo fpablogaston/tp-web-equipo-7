@@ -24,6 +24,15 @@ namespace Actividad4
         protected global::System.Web.UI.WebControls.TextBox textDni;
 
         /// <summary>
+        /// Control btnDni.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnDni;
+
+        /// <summary>
         /// Control textName.
         /// </summary>
         /// <remarks>
@@ -76,5 +85,14 @@ namespace Actividad4
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextCP;
+
+        /// <summary>
+        /// Control btnParticipar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnParticipar;
     }
 }

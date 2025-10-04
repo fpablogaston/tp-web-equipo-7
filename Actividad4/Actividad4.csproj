@@ -67,6 +67,7 @@
   <ItemGroup>
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="paginaExito.aspx" />
     <Content Include="scripts\scripts.js" />
     <Content Include="Paso2.aspx" />
     <Content Include="Paso3.aspx" />
@@ -83,6 +84,13 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="paginaExito.aspx.cs">
+      <DependentUpon>paginaExito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginaExito.aspx.designer.cs">
+      <DependentUpon>paginaExito.aspx</DependentUpon>
     </Compile>
     <Compile Include="Paso2.aspx.cs">
       <DependentUpon>Paso2.aspx</DependentUpon>

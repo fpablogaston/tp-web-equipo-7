@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\actividad4\\paso2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paso2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\actividad4\\paginaexito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paginaexito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\paso3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paso3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\actividad4\\paso3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paso3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\paso2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paso2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\actividad4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3F987FF-03D2-4F9D-81A8-A1FFF660FEC4}|ClassLibrary1\\dominio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\classlibrary1\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\styles\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\styles\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3F987FF-03D2-4F9D-81A8-A1FFF660FEC4}|ClassLibrary1\\dominio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\classlibrary1\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,11 +79,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "paginaExito.aspx",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\paginaExito.aspx",
+              "RelativeDocumentMoniker": "Actividad4\\paginaExito.aspx",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\paginaExito.aspx*",
+              "RelativeToolTip": "Actividad4\\paginaExito.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T17:19:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paso3.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso3.aspx.cs",
+              "RelativeDocumentMoniker": "Actividad4\\Paso3.aspx.cs",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso3.aspx.cs",
+              "RelativeToolTip": "Actividad4\\Paso3.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T02:00:26.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\ClienteNegocio.cs",
+              "RelativeDocumentMoniker": "negocio2\\ClienteNegocio.cs",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\ClienteNegocio.cs",
+              "RelativeToolTip": "negocio2\\ClienteNegocio.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:26:32.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Paso2.aspx",
               "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso2.aspx",
               "RelativeDocumentMoniker": "Actividad4\\Paso2.aspx",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso2.aspx*",
-              "RelativeToolTip": "Actividad4\\Paso2.aspx*",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso2.aspx",
+              "RelativeToolTip": "Actividad4\\Paso2.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-10-03T22:01:41.87Z",
@@ -83,33 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Site.Master",
-              "RelativeDocumentMoniker": "Actividad4\\Site.Master",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Site.Master",
-              "RelativeToolTip": "Actividad4\\Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-03T21:49:40.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Paso3.aspx",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso3.aspx",
-              "RelativeDocumentMoniker": "Actividad4\\Paso3.aspx",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso3.aspx*",
-              "RelativeToolTip": "Actividad4\\Paso3.aspx*",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-03T14:33:23.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "default.aspx",
               "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Default.aspx",
               "RelativeDocumentMoniker": "Actividad4\\Default.aspx",
@@ -122,20 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\default.aspx.cs",
-              "RelativeDocumentMoniker": "Actividad4\\default.aspx.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\default.aspx.cs",
-              "RelativeToolTip": "Actividad4\\default.aspx.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T23:02:07.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Voucher.cs",
               "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\ClassLibrary1\\Voucher.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Voucher.cs",
@@ -143,23 +151,77 @@
               "RelativeToolTip": "ClassLibrary1\\Voucher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T17:06:15.619Z"
+              "WhenOpened": "2025-10-03T17:06:15.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ArticuloNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\ArticuloNegocio.cs",
-              "RelativeDocumentMoniker": "negocio2\\ArticuloNegocio.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\ArticuloNegocio.cs",
-              "RelativeToolTip": "negocio2\\ArticuloNegocio.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwCQAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Paso3.aspx",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso3.aspx",
+              "RelativeDocumentMoniker": "Actividad4\\Paso3.aspx",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso3.aspx",
+              "RelativeToolTip": "Actividad4\\Paso3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T14:33:23.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\default.aspx.cs",
+              "RelativeDocumentMoniker": "Actividad4\\default.aspx.cs",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\default.aspx.cs",
+              "RelativeToolTip": "Actividad4\\default.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T14:26:02.11Z"
+              "WhenOpened": "2025-10-02T23:02:07.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "negocio2\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\CategoriaNegocio.cs",
+              "RelativeToolTip": "negocio2\\CategoriaNegocio.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:26:16.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VoucherNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\VoucherNegocio.cs",
+              "RelativeDocumentMoniker": "negocio2\\VoucherNegocio.cs",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\VoucherNegocio.cs",
+              "RelativeToolTip": "negocio2\\VoucherNegocio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:34:17.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Site.Master",
+              "RelativeDocumentMoniker": "Actividad4\\Site.Master",
+              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Site.Master",
+              "RelativeToolTip": "Actividad4\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-03T21:49:40.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "estilos.css",
               "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\styles\\estilos.css",
               "RelativeDocumentMoniker": "Actividad4\\styles\\estilos.css",
@@ -167,11 +229,12 @@
               "RelativeToolTip": "Actividad4\\styles\\estilos.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-03T14:29:38.206Z"
+              "WhenOpened": "2025-10-03T14:29:38.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\ClassLibrary1\\Articulo.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Articulo.cs",
@@ -179,11 +242,12 @@
               "RelativeToolTip": "ClassLibrary1\\Articulo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T14:26:48.07Z"
+              "WhenOpened": "2025-10-03T14:26:48.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Imagen.cs",
               "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\ClassLibrary1\\Imagen.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Imagen.cs",
@@ -191,35 +255,12 @@
               "RelativeToolTip": "ClassLibrary1\\Imagen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T14:57:32.266Z"
+              "WhenOpened": "2025-10-03T14:57:32.266Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoriaNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\CategoriaNegocio.cs",
-              "RelativeDocumentMoniker": "negocio2\\CategoriaNegocio.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\CategoriaNegocio.cs",
-              "RelativeToolTip": "negocio2\\CategoriaNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T14:26:16.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClienteNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\ClienteNegocio.cs",
-              "RelativeDocumentMoniker": "negocio2\\ClienteNegocio.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\ClienteNegocio.cs",
-              "RelativeToolTip": "negocio2\\ClienteNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T14:26:32.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ImagenNegocio.cs",
               "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\ImagenNegocio.cs",
               "RelativeDocumentMoniker": "negocio2\\ImagenNegocio.cs",
@@ -227,11 +268,12 @@
               "RelativeToolTip": "negocio2\\ImagenNegocio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T14:27:25.173Z"
+              "WhenOpened": "2025-10-03T14:27:25.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "MarcaNegocio.cs",
               "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\MarcaNegocio.cs",
               "RelativeDocumentMoniker": "negocio2\\MarcaNegocio.cs",
@@ -239,7 +281,8 @@
               "RelativeToolTip": "negocio2\\MarcaNegocio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T14:27:36.524Z"
+              "WhenOpened": "2025-10-03T14:27:36.524Z",
+              "EditorCaption": ""
             }
           ]
         }
