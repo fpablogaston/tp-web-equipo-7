@@ -11,20 +11,22 @@ namespace negocio
 {
     public class ClienteNegocio
     {
-        public Cliente BuscarDocumentoCliente(int documento)
+        public Cliente BuscarDocumentoCliente(int dni)
         {
             Cliente cliente = null;
-            
+            string documento = dni.ToString();
+
             AccesoADatos.AccesoDatos datos = new AccesoADatos.AccesoDatos();
             try
             {
-                datos.setQuery("SELECT Nombre, Apellido, Email, Direccion, Ciudad, CP FROM Clientes WHERE documento = @Documento");
+                datos.setQuery("SELECT Id, Nombre, Apellido, Email, Direccion, Ciudad, CP FROM Clientes WHERE documento = @Documento");
                 datos.setearParametro("@Documento", documento);
                 datos.ejecutarLectura();
 
                     if (datos.Lector.Read())
                     {
                         cliente = new Cliente();
+                        cliente.Id = (int)datos.Lector["Id"];
                         cliente.Nombre = datos.Lector["Nombre"].ToString();
                         cliente.Apellido = datos.Lector["Apellido"].ToString();
                         cliente.Email = datos.Lector["Email"].ToString();
@@ -46,6 +48,32 @@ namespace negocio
             return cliente;
         }
 
+        public int AgregarClienteYObtenerId(Cliente nuevoCliente){
+
+            int nuevoId;
+            AccesoADatos.AccesoDatos datos = new AccesoADatos.AccesoDatos();
+            try
+            {
+                datos.setQuery(@"INSERT INTO CLIENTES (Documento, Nombre, Apellido, Email, Direccion, Ciudad, CP) VALUES (@Documento, @Nombre, @Apellido, @Email, @Direccion, @Ciudad, @CP); SELECT SCOPE_IDENTITY();");
+                datos.setearParametro("@Documento", nuevoCliente.Documento);
+                datos.setearParametro("@Nombre", nuevoCliente.Nombre);
+                datos.setearParametro("@Apellido", nuevoCliente.Apellido);
+                datos.setearParametro("@Email", nuevoCliente.Email);
+                datos.setearParametro("@Direccion", nuevoCliente.Direccion);
+                datos.setearParametro("@Ciudad", nuevoCliente.Ciudad);
+                datos.setearParametro("@CP", nuevoCliente.CP);
+                nuevoId = Convert.ToInt32(datos.ejecutarScalar());
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+            return nuevoId;
+        }
 
         public List<Cliente> listar()
         {

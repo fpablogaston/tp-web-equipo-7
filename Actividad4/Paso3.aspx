@@ -12,49 +12,50 @@
 
     <div class="col-md-2">
         <label type="number" class="form-label">DNI</label>
-        <asp:TextBox ID="textDni" cssClass="form-control" runat="server"></asp:TextBox>
-         <asp:RequiredFieldValidator ValidationGroup="DniGroup" ID="RequiredDni" runat="server" ErrorMessage="Por favor ingrese DNI" ControlToValidate="textDni"></asp:RequiredFieldValidator>
-        <asp:Button ValidationGroup="DniGroup" ID="btnDni" cssClass="btn btn-primary" OnClick="btnDni_Click" runat="server" Text="Chequear DNI" />
+        <asp:TextBox ID="textDni" cssClass="form-control" runat="server" OnTextChanged="textDni_TextChanged" AutoPostBack="true"></asp:TextBox>
+         <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredDni" runat="server" ErrorMessage="Por favor ingrese DNI" ForeColor="Red" ControlToValidate="textDni"></asp:RequiredFieldValidator>
         <%--<asp:RegularExpressionValidator ID="RegularExDni" runat="server" ErrorMessage="Solo se aceptan numeros" ControlToValidate="textDni" ValidationExpression="^[0-9]+$"></asp:RegularExpressionValidator>--%>
+        <asp:RegularExpressionValidator ID="RegexDni" runat="server" ControlToValidate="textDni" CssClass="text-danger small mt-1 d-block" ErrorMessage="El DNI es inválido" ValidationExpression="^\d{7,8}$" ForeColor="Red"> </asp:RegularExpressionValidator>
     </div>
 
     <div class="row">
     <div class="col-md-3">
         <label  class="form-label">Nombre</label>
         <asp:TextBox type="text" ID="textName" cssClass="form-control" runat="server"></asp:TextBox>
-        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredNombre" runat="server" ErrorMessage="Por favor ingrese un Nombre" ControlToValidate="textName" ></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredNombre" runat="server" ErrorMessage="Por favor ingrese un Nombre" ForeColor="Red" ControlToValidate="textName" ></asp:RequiredFieldValidator>
     </div>
 
     <div class="col-3">
         <label class="form-label">Apellido</label>
         <asp:TextBox type="text" ID="TextApellido" CssClass="form-control" runat="server"></asp:TextBox>
-        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredApellido" runat="server" ErrorMessage="Por favor ingrese su Apellido" ControlToValidate="TextApellido"></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredApellido" runat="server" ErrorMessage="Por favor ingrese su Apellido" ForeColor="Red" ControlToValidate="TextApellido"></asp:RequiredFieldValidator>
     </div>
     </div>
 
     <div class="col-6">
         <label class="form-label">Email</label>
         <asp:TextBox ID="TextEmail" type="text" class="form-control" runat="server"></asp:TextBox>
-        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredEmail" runat="server" ErrorMessage="Por favor ingrese un email" ControlToValidate="TextEmail"></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredEmail" runat="server" ErrorMessage="Por favor ingrese un email" ForeColor="Red" ControlToValidate="TextEmail"></asp:RequiredFieldValidator>
+        <asp:RegularExpressionValidator ID="RegexEmail" runat="server" ControlToValidate="TextEmail" ErrorMessage="Ingrese un correo electrónico válido" CssClass="text-danger small mt-1 d-block" ValidationExpression="^[^@\s]+@[^@\s]+\.[^@\s]+$" OnTextChanged="TextEmail_TextChanged"> </asp:RegularExpressionValidator>
     </div>
 
 <div class="row">
     <div class="col-md-2">
         <label class="form-label">Direccion</label>
         <asp:TextBox ID="TextDireccion" class="form-control" type="text" runat="server"></asp:TextBox>
-        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredDireccion" runat="server" ErrorMessage="Por favor ingrese Direccion" ControlToValidate="TextDireccion"></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredDireccion" runat="server" ErrorMessage="Por favor ingrese Direccion" ForeColor="Red" ControlToValidate="TextDireccion"></asp:RequiredFieldValidator>
     </div>
 
     <div class="col-md-2">
         <label class="form-label">Ciudad</label>
         <asp:TextBox ID="TextCiudad" class="form-control" type="text" runat="server"></asp:TextBox>
-        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredCiudad" runat="server" ErrorMessage="Por favor ingrese una Ciudad" ControlToValidate="TextCiudad"></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredCiudad" runat="server" ErrorMessage="Por favor ingrese una Ciudad" ForeColor="Red" ControlToValidate="TextCiudad"></asp:RequiredFieldValidator>
     </div>
     
     <div class="col-md-2">
         <label class="form-label">CP</label>
         <asp:TextBox ID="TextCP" type="number" CssClass="form-control" runat="server"></asp:TextBox>
-        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredCP" runat="server" ErrorMessage="Por favor ingresar CP" ControlToValidate="TextCP"></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ValidationGroup="ParticiparGroup" ID="RequiredCP" runat="server" ErrorMessage="Por favor ingresar CP" ForeColor="Red" ControlToValidate="TextCP"></asp:RequiredFieldValidator>
         </div>
 </div>
 

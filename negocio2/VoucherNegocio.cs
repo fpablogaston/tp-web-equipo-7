@@ -26,9 +26,6 @@ namespace negocio
 
                 if (a > 0) { 
                     valido = true;
-                    datos.setQuery("UPDATE VOUCHERS SET FechaCanje = @Fecha WHERE CodigoVoucher = @Codigo");
-                    datos.setearParametro("@Fecha", DateTime.Now);
-                    datos.ejecutarAccion();
                 }
             }
             catch (Exception ex)

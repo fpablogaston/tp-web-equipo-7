@@ -42,33 +42,10 @@ namespace Actividad4
             if (e.CommandName == "Reclamar")
             {
                 int idArticuloSeleccionado = int.Parse(e.CommandArgument.ToString());
-
-                if (Session["CodigoIngresado"] != null)
-                {
-                    string codigoVoucher = Session["CodigoIngresado"].ToString();
-                    AccesoDatos datos = new AccesoDatos();
-
-                    try
-                    {
-                        datos.setQuery("UPDATE VOUCHERS SET IdArticulo = @idArticulo WHERE CodigoVoucher = @Codigo");
-                        datos.setearParametro("@idArticulo", idArticuloSeleccionado);
-                        datos.setearParametro("@Codigo", codigoVoucher);
-                        datos.ejecutarAccion();
-
-                        Session["IdArticulo"] = idArticuloSeleccionado;
-                        Response.Redirect("Paso3.aspx");
-                    }
-                    catch (Exception ex)
-                    {
-                        throw ex;
-                    }
-                    finally
-                    {
-                        datos.cerrarConexion();
-                    }
-                }
+                Session["IdArticuloSeleccionado"] = idArticuloSeleccionado;
+                Response.Redirect("Paso3.aspx");
             }
         }
-
     }
 }
+    

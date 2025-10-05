@@ -1,49 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\",
+  "WorkspaceRootPath": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\paso3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paso3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\paso3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\actividad4\\paso3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paso3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|c:\\users\\fpabl\\onedrive\\desktop\\repogitactv4\\tp-web-equipo-7\\negocio2\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|d:\\000 uni\\2025 - 2c\\programacion iii\\actividad 4 - tp web\\tp-web-equipo-7\\actividad4\\paso3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paso3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\paginaexito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paginaexito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\actividad4\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|d:\\000 uni\\2025 - 2c\\programacion iii\\actividad 4 - tp web\\tp-web-equipo-7\\actividad4\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|d:\\000 uni\\2025 - 2c\\programacion iii\\actividad 4 - tp web\\tp-web-equipo-7\\actividad4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|d:\\000 uni\\2025 - 2c\\programacion iii\\actividad 4 - tp web\\tp-web-equipo-7\\actividad4\\paso2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paso2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|d:\\000 uni\\2025 - 2c\\programacion iii\\actividad 4 - tp web\\tp-web-equipo-7\\actividad4\\paso2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paso2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|d:\\000 uni\\2025 - 2c\\programacion iii\\actividad 4 - tp web\\tp-web-equipo-7\\negocio2\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\actividad4\\paginaexito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\paginaexito.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|d:\\000 uni\\2025 - 2c\\programacion iii\\actividad 4 - tp web\\tp-web-equipo-7\\actividad4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|d:\\000 uni\\2025 - 2c\\programacion iii\\actividad 4 - tp web\\tp-web-equipo-7\\actividad4\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|d:\\000 uni\\2025 - 2c\\programacion iii\\actividad 4 - tp web\\tp-web-equipo-7\\actividad4\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F987FF-03D2-4F9D-81A8-A1FFF660FEC4}|ClassLibrary1\\dominio.csproj|d:\\000 uni\\2025 - 2c\\programacion iii\\actividad 4 - tp web\\tp-web-equipo-7\\classlibrary1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F987FF-03D2-4F9D-81A8-A1FFF660FEC4}|ClassLibrary1\\dominio.csproj|solutionrelative:classlibrary1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\actividad4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\actividad4\\styles\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\actividad4\\styles\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D9CA2E30-3BF7-4FC0-A056-A5D1295900B4}|Actividad4\\Actividad4.csproj|solutionrelative:actividad4\\styles\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3F987FF-03D2-4F9D-81A8-A1FFF660FEC4}|ClassLibrary1\\dominio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\classlibrary1\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3F987FF-03D2-4F9D-81A8-A1FFF660FEC4}|ClassLibrary1\\dominio.csproj|D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\classlibrary1\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3F987FF-03D2-4F9D-81A8-A1FFF660FEC4}|ClassLibrary1\\dominio.csproj|solutionrelative:classlibrary1\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3F987FF-03D2-4F9D-81A8-A1FFF660FEC4}|ClassLibrary1\\dominio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\classlibrary1\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3F987FF-03D2-4F9D-81A8-A1FFF660FEC4}|ClassLibrary1\\dominio.csproj|D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\classlibrary1\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3F987FF-03D2-4F9D-81A8-A1FFF660FEC4}|ClassLibrary1\\dominio.csproj|solutionrelative:classlibrary1\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{882E5751-08FE-4852-A4D3-AE6751472A81}|negocio2\\negocio.csproj|solutionrelative:negocio2\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,42 +90,133 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Web.Release.config",
+              "RelativeDocumentMoniker": "Actividad4\\Web.Release.config",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Web.Release.config",
+              "RelativeToolTip": "Actividad4\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-05T20:37:47.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Actividad4\\Web.Debug.config",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Web.Debug.config",
+              "RelativeToolTip": "Actividad4\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-05T20:37:43.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Web.config",
+              "RelativeDocumentMoniker": "Actividad4\\Web.config",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Web.config",
+              "RelativeToolTip": "Actividad4\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-05T20:37:26.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\ClassLibrary1\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Cliente.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\ClassLibrary1\\Cliente.cs",
+              "RelativeToolTip": "ClassLibrary1\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T20:03:02.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Paso2.aspx.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Paso2.aspx.cs",
+              "RelativeDocumentMoniker": "Actividad4\\Paso2.aspx.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Paso2.aspx.cs",
+              "RelativeToolTip": "Actividad4\\Paso2.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T20:02:50.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "default.aspx",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Default.aspx",
+              "RelativeDocumentMoniker": "Actividad4\\Default.aspx",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Default.aspx",
+              "RelativeToolTip": "Actividad4\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-05T19:40:43.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Paso2.aspx",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Paso2.aspx",
+              "RelativeDocumentMoniker": "Actividad4\\Paso2.aspx",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Paso2.aspx",
+              "RelativeToolTip": "Actividad4\\Paso2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-05T19:40:25.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Paso3.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso3.aspx.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Paso3.aspx.cs",
               "RelativeDocumentMoniker": "Actividad4\\Paso3.aspx.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso3.aspx.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Paso3.aspx.cs",
               "RelativeToolTip": "Actividad4\\Paso3.aspx.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwCcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T02:00:26.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ClienteNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\ClienteNegocio.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\ClienteNegocio.cs",
               "RelativeDocumentMoniker": "negocio2\\ClienteNegocio.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\ClienteNegocio.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\ClienteNegocio.cs",
               "RelativeToolTip": "negocio2\\ClienteNegocio.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwDIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T14:26:32.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Paso3.aspx",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso3.aspx",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Paso3.aspx",
               "RelativeDocumentMoniker": "Actividad4\\Paso3.aspx",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Paso3.aspx",
-              "RelativeToolTip": "Actividad4\\Paso3.aspx",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Paso3.aspx*",
+              "RelativeToolTip": "Actividad4\\Paso3.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-10-03T14:33:23.85Z",
@@ -97,35 +224,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\default.aspx.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\default.aspx.cs",
               "RelativeDocumentMoniker": "Actividad4\\default.aspx.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\default.aspx.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\default.aspx.cs",
               "RelativeToolTip": "Actividad4\\default.aspx.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T23:02:07.348Z"
+              "WhenOpened": "2025-10-02T23:02:07.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "paginaExito.aspx",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\paginaExito.aspx",
-              "RelativeDocumentMoniker": "Actividad4\\paginaExito.aspx",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\paginaExito.aspx",
-              "RelativeToolTip": "Actividad4\\paginaExito.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-04T17:19:10.71Z"
+              "Title": "default.aspx.designer.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Actividad4\\Default.aspx.designer.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Default.aspx.designer.cs",
+              "RelativeToolTip": "Actividad4\\Default.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:44:50.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "VoucherNegocio.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\VoucherNegocio.cs",
+              "RelativeDocumentMoniker": "negocio2\\VoucherNegocio.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\VoucherNegocio.cs",
+              "RelativeToolTip": "negocio2\\VoucherNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:06:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "paginaExito.aspx",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\paginaExito.aspx",
+              "RelativeDocumentMoniker": "Actividad4\\paginaExito.aspx",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\paginaExito.aspx",
+              "RelativeToolTip": "Actividad4\\paginaExito.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T17:19:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CategoriaNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\CategoriaNegocio.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\CategoriaNegocio.cs",
               "RelativeDocumentMoniker": "negocio2\\CategoriaNegocio.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\CategoriaNegocio.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\CategoriaNegocio.cs",
               "RelativeToolTip": "negocio2\\CategoriaNegocio.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAkwAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,11 +288,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Site.Master",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Site.Master",
               "RelativeDocumentMoniker": "Actividad4\\Site.Master",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\Site.Master",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\Site.Master",
               "RelativeToolTip": "Actividad4\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -146,11 +301,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "estilos.css",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\styles\\estilos.css",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\styles\\estilos.css",
               "RelativeDocumentMoniker": "Actividad4\\styles\\estilos.css",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\Actividad4\\styles\\estilos.css",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\Actividad4\\styles\\estilos.css",
               "RelativeToolTip": "Actividad4\\styles\\estilos.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -158,11 +313,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\ClassLibrary1\\Articulo.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\ClassLibrary1\\Articulo.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Articulo.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\ClassLibrary1\\Articulo.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\ClassLibrary1\\Articulo.cs",
               "RelativeToolTip": "ClassLibrary1\\Articulo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,11 +325,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Imagen.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\ClassLibrary1\\Imagen.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\ClassLibrary1\\Imagen.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Imagen.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\ClassLibrary1\\Imagen.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\ClassLibrary1\\Imagen.cs",
               "RelativeToolTip": "ClassLibrary1\\Imagen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,11 +337,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "MarcaNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\MarcaNegocio.cs",
+              "DocumentMoniker": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\MarcaNegocio.cs",
               "RelativeDocumentMoniker": "negocio2\\MarcaNegocio.cs",
-              "ToolTip": "C:\\Users\\fpabl\\OneDrive\\Desktop\\RepoGitActv4\\tp-web-equipo-7\\negocio2\\MarcaNegocio.cs",
+              "ToolTip": "D:\\000 uni\\2025 - 2C\\PROGRAMACION III\\Actividad 4 - TP Web\\tp-web-equipo-7\\negocio2\\MarcaNegocio.cs",
               "RelativeToolTip": "negocio2\\MarcaNegocio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
