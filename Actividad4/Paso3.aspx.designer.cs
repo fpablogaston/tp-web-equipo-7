@@ -24,6 +24,15 @@ namespace Actividad4
         protected global::System.Web.UI.WebControls.TextBox textDni;
 
         /// <summary>
+        /// Control RequiredDni.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredDni;
+
+        /// <summary>
         /// Control btnDni.
         /// </summary>
         /// <remarks>
@@ -42,6 +51,15 @@ namespace Actividad4
         protected global::System.Web.UI.WebControls.TextBox textName;
 
         /// <summary>
+        /// Control RequiredNombre.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredNombre;
+
+        /// <summary>
         /// Control TextApellido.
         /// </summary>
         /// <remarks>
@@ -49,6 +67,15 @@ namespace Actividad4
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextApellido;
+
+        /// <summary>
+        /// Control RequiredApellido.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredApellido;
 
         /// <summary>
         /// Control TextEmail.
@@ -60,6 +87,15 @@ namespace Actividad4
         protected global::System.Web.UI.WebControls.TextBox TextEmail;
 
         /// <summary>
+        /// Control RequiredEmail.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredEmail;
+
+        /// <summary>
         /// Control TextDireccion.
         /// </summary>
         /// <remarks>
@@ -67,6 +103,15 @@ namespace Actividad4
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextDireccion;
+
+        /// <summary>
+        /// Control RequiredDireccion.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredDireccion;
 
         /// <summary>
         /// Control TextCiudad.
@@ -78,6 +123,15 @@ namespace Actividad4
         protected global::System.Web.UI.WebControls.TextBox TextCiudad;
 
         /// <summary>
+        /// Control RequiredCiudad.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredCiudad;
+
+        /// <summary>
         /// Control TextCP.
         /// </summary>
         /// <remarks>
@@ -85,6 +139,15 @@ namespace Actividad4
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextCP;
+
+        /// <summary>
+        /// Control RequiredCP.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredCP;
 
         /// <summary>
         /// Control btnParticipar.
